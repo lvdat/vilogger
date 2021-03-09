@@ -5,14 +5,14 @@
 
 :smiley: Member of **GSI ROM Vietnam Community(https://www.facebook.com/groups/214533623327803/)** 
 
-👨‍🎓 I'm studying at **[HUTECH UNIVERSITY](https://www.hutech.edu.vn/)** 
+👨‍🎓 I'm studying at **[CANTHO UNIVERSITY](https://ctu.edu.vn/)** 
 
 ### About me :eyes:
 
 - :dart: Full stack development 
 - :e-mail: Ask me about anything ; **[datioeplus@gmail.com](datioeplus@gmail.com)**
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=vilogger&show_icons=true&hide_border=true)
+![My github stats](https://github-readme-stats.vercel.app/api?username=lvdat&show_icons=true&hide_border=true)
 
 ### Languages and Tools :computer:
 
